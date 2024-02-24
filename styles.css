@@ -1,0 +1,32 @@
+* {
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#main {
+    align-self: center;
+    margin-left: 32%;
+    margin-right: 32%;
+}
+
+h1 {
+    
+    font-size: 80px;
+    text-align: center;
+    text-decoration: double;
+    color: rgb(47, 56, 97);
+}
+
+.index-img {
+    width: 100%;
+    height: auto;
+}
+
+.descr {
+    margin-top: 0%;
+    margin-bottom: 25px;
+}
+.descr a {
+    color: rgb(47, 56, 97);
+    text-decoration: none;
+}
