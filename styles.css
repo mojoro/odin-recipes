@@ -1,9 +1,10 @@
 * {
     background-color: aquamarine;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(47, 56, 97);
 }
 
-#main {
+.main {
     align-self: center;
     margin-left: 32%;
     margin-right: 32%;
@@ -14,7 +15,6 @@ h1 {
     font-size: 80px;
     text-align: center;
     text-decoration: double;
-    color: rgb(47, 56, 97);
 }
 
 .index-img {
@@ -27,6 +27,17 @@ h1 {
     margin-bottom: 25px;
 }
 .descr a {
-    color: rgb(47, 56, 97);
     text-decoration: none;
+}
+
+.nav {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+button {
+    background-color: orange;
+    border-color: rgb(47, 56, 97);
+    font-size: 18px;
+    font-weight: 700;
 }
